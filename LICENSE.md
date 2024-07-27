@@ -1,7 +1,3 @@
-Aqui está a versão da licença proprietária traduzida para o inglês:
-
----
-
 **Proprietary Software License**
 
 **1. License Grant**  
@@ -28,5 +24,3 @@ Under no circumstances will the licensor be liable for any indirect, special, in
 
 **7. Miscellaneous**  
 This license constitutes the entire agreement between the parties concerning the subject matter hereof and supersedes all prior or contemporaneous proposals, oral or written, and any other communications between the parties concerning the subject matter of this document.
-
----
